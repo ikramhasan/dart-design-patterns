@@ -15,7 +15,7 @@ Reusing design patterns help prevent subtle issues that cause major problems, an
 - [ ] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
-- [ ] Iterator
+- [x] Iterator
 - [ ] Mediator
 - [x] [Memento](https://github.com/ikramhasan/dart-design-patterns/tree/master/memento)
 - [ ] Observer
